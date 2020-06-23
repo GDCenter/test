@@ -1,10 +1,15 @@
 
 测试结果：
+
   前端使用post传递查询请求：
-  请求参数如下：
-      stat_range 3
-      end_range 10
-      client_number: 客户端5
+
+请求参数如下：
+
+stat_range 3
+
+end_range 10
+
+client_number: 客户端5
       
       
       {
